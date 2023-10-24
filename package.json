@@ -1,5 +1,5 @@
 {
-  "name": "videojsx-vast-plugin",
+  "name": "@nativoplatform/videojsx-vast-plugin",
   "version": "1.0.0",
   "description": "HTML5 video player with VAST support",
   "main": "dist/player.js",
@@ -28,7 +28,7 @@
   "author": "Philip Watson",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philipwatson/videojsx-vast-plugin"
+    "url": "https://github.com/nativoplatform/videojsx-vast-plugin"
   },
   "license": "MIT",
   "dependencies": {
