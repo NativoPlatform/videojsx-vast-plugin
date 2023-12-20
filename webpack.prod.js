@@ -17,7 +17,7 @@ module.exports = common.map(c => merge(c, {
     },
 
     optimization: {
-        minimize: true,
+        minimize: false,
         minimizer: [
             new TerserPlugin({
                 terserOptions: {

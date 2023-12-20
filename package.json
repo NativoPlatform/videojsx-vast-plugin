@@ -1,6 +1,6 @@
 {
   "name": "@nativoplatform/videojsx-vast-plugin",
-  "version": "2.0.1",
+  "version": "1.0.0",
   "description": "HTML5 video player with VAST support",
   "main": "dist/player.js",
   "vjsstandard": {
